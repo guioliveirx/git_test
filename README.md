@@ -1,5 +1,5 @@
 # git_test
 My first GitHub repo!
 Hello Odin! 
-mY SAKDA
-OASKDO
+
+The archive hello_world_Windows was created by windows git
